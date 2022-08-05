@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! <br>
 
-- 👋 Hello everyone! I'm Adrián Suárez 👦. I'm 24 years old and my goal is never stop learning new things 😉.
+- 👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
 
 - 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive bootcamp <br><br>![image](https://user-images.githubusercontent.com/107125191/183062483-45c42c10-4841-424e-a1e7-2f23330daf2f.png)
 
