@@ -13,7 +13,7 @@
 - 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/
 - 🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
 <br>
-<b align="center">Thank you for taking the time to look at my README, I will be updating it soon. 😊</b>
+<p align="center"><b>Thank you for taking the time to look at my README, I will be updating it soon. 😊</b></p>
 
 
 <!--
