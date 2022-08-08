@@ -7,11 +7,11 @@
   
  👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
 
- 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br><br>
+ 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/107125191/183062483-45c42c10-4841-424e-a1e7-2f23330daf2f.png" height="35"/> </p>
-
 <br>
+<hr>
 
  📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
