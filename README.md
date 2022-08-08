@@ -1,5 +1,6 @@
 
-  <img src="https://img.favpng.com/2/23/8/logo-human-behavior-writing-brand-png-favpng-BsPz187zenyrAm98UbpjTjPiB.jpg" height="200"/>
+
+  <img src="https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png" height="200"/>
 
   <hr><h1 align="center"> Welcome to my GitHub! </h1>
 
