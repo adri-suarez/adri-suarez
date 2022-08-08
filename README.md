@@ -11,7 +11,7 @@
 
 <br>
 
- 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/
+ 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
 <br>
 </section>
