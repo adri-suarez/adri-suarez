@@ -5,14 +5,14 @@
   <h1 align="center"> Welcome to my GitHub! </h1>
   <section align="center">
   
-- 👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
+ 👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
 
-- 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br><br>![image](https://user-images.githubusercontent.com/107125191/183062483-45c42c10-4841-424e-a1e7-2f23330daf2f.png)
+ 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br><br>![image](https://user-images.githubusercontent.com/107125191/183062483-45c42c10-4841-424e-a1e7-2f23330daf2f.png)
 
 <br>
 
-- 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/
-- 🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
+ 📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/
+ 🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
 <br>
 </section>
 <p align="center"><b>Thank you for taking the time to look at my README, I will be updating it soon. 😊</b></p>
