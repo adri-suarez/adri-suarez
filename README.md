@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5fc9df4520d1877ffcbd1e38/1607724242602-3OOLUHSRMCCABYBYSUBY/West+Coast+Finds%2C+Hello+There.png" height="200"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/6016d9a1cbc71f649dac75f9/1616854348371-QMP6GQC2Z5QTJN9LGVQ6/Hello+There.png" height="200"/>
 </p
   <hr><h1 align="center"> Welcome to my GitHub! </h1>
 
