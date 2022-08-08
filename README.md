@@ -1,5 +1,5 @@
 
-  <img src="https://images.squarespace-cdn.com/content/v1/6016d9a1cbc71f649dac75f9/1616854348371-QMP6GQC2Z5QTJN9LGVQ6/Hello+There.png" height="200"/>
+  <img src="https://img.favpng.com/2/23/8/logo-human-behavior-writing-brand-png-favpng-BsPz187zenyrAm98UbpjTjPiB.jpg" height="200"/>
 
   <hr><h1 align="center"> Welcome to my GitHub! </h1>
 
