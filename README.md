@@ -1,7 +1,7 @@
 
-
+  <p align="center>
   <img src="https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png" height="200"/>
-
+  </p>
   <hr><h1 align="center"> Welcome to my GitHub! </h1>
 
 - 👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
