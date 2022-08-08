@@ -1,6 +1,6 @@
-<p align="center">
+
   <img src="https://images.squarespace-cdn.com/content/v1/6016d9a1cbc71f649dac75f9/1616854348371-QMP6GQC2Z5QTJN9LGVQ6/Hello+There.png" height="100"/>
-</p
+
   <hr><h1 align="center"> Welcome to my GitHub! </h1>
 
 - 👋 Hello everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉.
