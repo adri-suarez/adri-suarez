@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/107125191/183405120-da6465ee-239d-421a-8a73-46ace86fe21b.png)" heigth="200"/>
+  <img src="https://user-images.githubusercontent.com/107125191/183405120-da6465ee-239d-421a-8a73-46ace86fe21b.png)" heigth="200"/>
 </p
   <h1 align="center"> Welcome to my GitHub! </h1><br>
 
