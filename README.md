@@ -3,11 +3,11 @@
   <img src="https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png" height="150"/>  </p>
 
   <h1 align="center"> Welcome to my GitHub! </h1>
-  <section align="center"><br>
+  <section align="center">
   
  👋 Hey everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉
 
- 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br>
+ 🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br><br>
   
   <h2 align="center"> Technologies I am currently working with: </h2>
   <section align="center">
