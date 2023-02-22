@@ -29,7 +29,6 @@
 </div>
   
   <section align="center"><br>
-<br>
  📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
 <br>
