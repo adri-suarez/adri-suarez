@@ -9,9 +9,8 @@
 
  🌱 I’m currently learning JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at    Henry, an immersive full-stack bootcamp <br><br>
   
-  <h2 align="center"> Technologies I am currently working with: </h2>
   <section align="center">
-    
+    <h2 align="center"> Technologies I am currently working with: </h2>  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
