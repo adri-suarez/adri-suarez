@@ -24,9 +24,9 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>    
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-  </section><hr>
-</div><br>
-  <section align="center">
+  </section>
+</div>
+  <hr><section align="center">
  📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
 <br>
