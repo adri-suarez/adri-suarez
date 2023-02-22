@@ -18,7 +18,8 @@
 </section><hr>
 <p align="center"><b>Thank you for taking the time to look at my README, I will be updating it soon. 😊</b></p>
 
-# Technologies I am currently working with:
+  <h1 align="center"> Technologies I am currently working with: </h1>
+  <section align="center"><br>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
