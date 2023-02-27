@@ -22,6 +22,7 @@
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221673730-7bcaf091-d957-442c-821c-9f5ffba07d6b.png" alt="CSS3" height="50" /></a> 
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221682735-b852ea85-f882-493f-a762-db4750deb8b8.png" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221684332-f63299ef-4949-49c4-917b-2f1f45f6b65b.png" alt="MongoDB" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
   <p>(can click on any to view its documentation)</p>
   </section>
@@ -32,7 +33,7 @@
 <br>
 </section><hr>
 <p align="center"><b>Thank you for taking the time to look at my README, I will be updating it soon. 😊</b></p>
-
+  
 <!--
 **zevek/zevek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
