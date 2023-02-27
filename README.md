@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/107125191/183408353-b1db1469-d97b-4b1d-92e6-535350854173.png" height="150"/>  </p>
 
   <h1 align="center"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221670124-498629d6-d0c7-4321-8b4c-1f461409acfd.gif" alt="Hello" height="50" />
- Welcome to my GitHub!  <section align="center">
+ Welcome to my GitHub!  <section align="center"></h1>
   
  👋 Hey everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉
 
