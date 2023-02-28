@@ -11,7 +11,6 @@
   
   <section align="center">
       
-<div align="center">  
   <h2> Technologies I am currently working with: </h2>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221668669-ea044d47-07ca-40b1-8f5e-2933514075c2.png" alt="Node.js" height="50" /></a>     
@@ -26,7 +25,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
   <p>(can click on any to view its documentation)</p>
   </section>
-</div>
   <hr><section align="center">
  📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
