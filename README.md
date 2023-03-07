@@ -25,7 +25,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
   <p>(can click on any to view its documentation)</p>
   </section>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
   <hr><section align="center">
  📫 You can contact me on LinkedIn: www.linkedin.com/in/adrianrsuarez/<br>
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
