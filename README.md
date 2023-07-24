@@ -5,13 +5,13 @@
   <h1 align="center">Welcome to my GitHub! </h1>
   <section align="center">
   
- 👋 Hey everyone! I'm Adrián Suárez. I'm 24 years old and my goal is never stop learning new things 😉
+ 👋 Hey everyone! I'm Adrián Suárez. I am actively looking for a job as developer. I consider myself a curious and self-taught person, I like to constantly learn new things especially related to the IT world. 😉
 
- 🌱 I am currently working and learning about JavaScript, TypeScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL at Henry, an immersive full-stack bootcamp <br>
+ 🌱 I have knowledge in technologies such as React, Node, Express, Postgres and some MongoDB (among others). One of my next goals is to keep improving in these technologies as well as learning Java and Spring boot. <br>
   
   <section align="center">
       
-  <h2> Technologies I am currently working with: </h2>
+  <h2> Some of the technologies that I work with: </h2>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221668669-ea044d47-07ca-40b1-8f5e-2933514075c2.png" alt="Node.js" height="50" /></a>     
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a> 
@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221682735-b852ea85-f882-493f-a762-db4750deb8b8.png" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221685458-89cd6aa7-fcbf-4a78-a0d0-fd7eeac88ba2.png" alt="MongoDB" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
-  <p>(can click on any to view its documentation)</p>
+  <p>(icons linked to their respective documentation)</p>
   </section>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zevek&show_icons=true&theme=dracula" alt="stats" height="150"> -->
   <hr><section align="center">
