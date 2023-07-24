@@ -31,7 +31,7 @@
  🌐 Or you can just send me an email to: suarezadrian.dev@gmail.com
   <hr>
   <b>Thank you for taking the time to look at my README, I will be updating it soon.</b> 😊
-![J4o](https://github.com/adri-suarez/adri-suarez/assets/107125191/5659f5de-76ab-46d5-8e8f-adccc1f07e5e)
+<img src="https://github.com/adri-suarez/adri-suarez/assets/107125191/5659f5de-76ab-46d5-8e8f-adccc1f07e5e"/>
 
   
 <!--
