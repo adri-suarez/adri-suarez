@@ -23,7 +23,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221682735-b852ea85-f882-493f-a762-db4750deb8b8.png" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/107125191/221685458-89cd6aa7-fcbf-4a78-a0d0-fd7eeac88ba2.png" alt="MongoDB" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
-  <p>(icons linked to their respective documentation)</p>
+  <p>(icons linked to their documentation)</p>
   </section>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zevek&show_icons=true&theme=dracula" alt="stats" height="150"> -->
   <hr><section align="center">
